@@ -1,0 +1,674 @@
+1: student (rzeczownik, rodzaj męski):
+	liczba pojedyncza:
+		mianownik:
+			student
+		dopełniacz:
+			studenta
+		celownik:
+			studentowi
+		biernik:
+			studenta
+		narzędnik:
+			studentem
+		miejscownik:
+			studencie
+		wołacz:
+			studencie
+	liczba mnoga:
+		mianownik:
+			studenci
+		dopełniacz:
+			studentów
+		celownik:
+			studentom
+		biernik:
+			studentów
+		narzędnik:
+			studentami
+		miejscownik:
+			studentach
+		wołacz:
+			studenci
+
+
+2: epitet (rzeczownik, rodzaj męski):
+	liczba pojedyncza:
+		mianownik:
+			epitet
+		dopełniacz:
+			epitetu
+		celownik:
+			epitetowi
+		biernik:
+			epitet
+		narzędnik:
+			epitetem
+		miejscownik:
+			epitecie
+		wołacz:
+			epitecie
+	liczba mnoga:
+		mianownik:
+			epitety
+		dopełniacz:
+			epitetów
+		celownik:
+			epitetom
+		biernik:
+			epitety
+		narzędnik:
+			epitetami
+		miejscownik:
+			epitetach
+		wołacz:
+			epitety
+
+
+3: uniwersytet (rzeczownik, rodzaj męski):
+	liczba pojedyncza:
+		mianownik:
+			uniwersytet
+		dopełniacz:
+			uniwersytetu
+		celownik:
+			uniwersytetowi
+		biernik:
+			uniwersytet
+		narzędnik:
+			uniwersytetem
+		miejscownik:
+			uniwersytecie
+		wołacz:
+			uniwersytecie
+	liczba mnoga:
+		mianownik:
+			uniwersytety
+		dopełniacz:
+			uniwersytetów
+		celownik:
+			uniwersytetom
+		biernik:
+			uniwersytety
+		narzędnik:
+			uniwersytetami
+		miejscownik:
+			uniwersytetach
+		wołacz:
+			uniwersytety
+
+
+4: robić (czasownik, niedokonany, koniugacja VIa):
+	czas teraźniejszy:
+		1. os. l.p.:
+			robię
+		2. os. l.p.:
+			robisz
+		3. os. l.p.:
+			robi
+		1. os. l.m.:
+			robimy
+		2. os. l.m.:
+			robicie
+		3. os. l.m.:
+			robią
+	czas przeszły:
+		1. os. l.p. r. m.:
+			robiłem
+		1. os. l.p. r. ż.:
+			robiłam
+		1. os. l.p. r. n.:
+			robiłom
+		2. os. l.p. r. m.:
+			robiłeś
+		2. os. l.p. r. ż.:
+			robiłaś
+		2. os. l.p. r. n.:
+			robiłoś
+		3. os. l.p. r. m.:
+			robił
+		3. os. l.p. r. ż.:
+			robiła
+		3. os. l.p. r. n.:
+			robiło
+		1. os. l.m. r. m.:
+			robiliśmy
+		1. os. l.m. r. ż.:
+			robiłyśmy
+		1. os. l.m. r. n.:
+			robiłyśmy
+		2. os. l.m. r. m.:
+			robiliście
+		2. os. l.m. r. ż.:
+			robiłyście
+		2. os. l.m. r. n.:
+			robiłyście
+		3. os. l.m. r. m.:
+			robili
+		3. os. l.m. r. ż.:
+			robiły
+		3. os. l.m. r. n.:
+			robiły
+	forma bezosobowa czasu przeszłego:
+		robiono
+	tryb przypuszczający:
+		1. os. l.p. r. m.:
+			robiłbym
+		1. os. l.p. r. ż.:
+			robiłabym
+		1. os. l.p. r. n.:
+			robiłobym
+		2. os. l.p. r. m.:
+			robiłbyś
+		2. os. l.p. r. ż.:
+			robiłabyś
+		2. os. l.p. r. n.:
+			robiłobyś
+		3. os. l.p. r. m.:
+			robiłby
+		3. os. l.p. r. ż.:
+			robiłaby
+		3. os. l.p. r. n.:
+			robiłoby
+		1. os. l.m. r. m.:
+			robilibyśmy
+		1. os. l.m. r. ż.:
+			robiłybyśmy
+		1. os. l.m. r. n.:
+			robiłybyśmy
+		2. os. l.m. r. m.:
+			robilibyście
+		2. os. l.m. r. ż.:
+			robiłybyście
+		2. os. l.m. r. n.:
+			robiłybyście
+		3. os. l.m. r. m.:
+			robiliby
+		3. os. l.m. r. ż.:
+			robiłyby
+		3. os. l.m. r. n.:
+			robiłyby
+	imiesłów przymiotnikowy czynny:
+		l.p. r. m.:
+			robiący
+		l.p. r. ż.:
+			robiąca
+		l.p. r. n.:
+			robiące
+		l.m. r. m.:
+			robiący
+		l.m. r. ż.:
+			robiące
+		l.m. r. n.:
+			robiące
+	imiesłów przymiotnikowy bierny:
+		l.p. r. m.:
+			robiony
+		l.p. r. ż.:
+			robiona
+		l.p. r. n.:
+			robione
+		l.m. r. m.:
+			robieni
+		l.m. r. ż.:
+			robione
+		l.m. r. n.:
+			robione
+	imiesłów przysłówkowy współczesny:
+		robiąc
+	rzeczownik odczasownikowy:
+		robienie
+
+
+5: zrobić (czasownik, dokonany, koniugacja VIa):
+	czas przyszły prosty:
+		1. os. l.p.:
+			zrobię
+		2. os. l.p.:
+			zrobisz
+		3. os. l.p.:
+			zrobi
+		1. os. l.m.:
+			zrobimy
+		2. os. l.m.:
+			zrobicie
+		3. os. l.m.:
+			zrobią
+	czas przeszły:
+		1. os. l.p. r. m.:
+			zrobiłem
+		1. os. l.p. r. ż.:
+			zrobiłam
+		1. os. l.p. r. n.:
+			zrobiłom
+		2. os. l.p. r. m.:
+			zrobiłeś
+		2. os. l.p. r. ż.:
+			zrobiłaś
+		2. os. l.p. r. n.:
+			zrobiłoś
+		3. os. l.p. r. m.:
+			zrobił
+		3. os. l.p. r. ż.:
+			zrobiła
+		3. os. l.p. r. n.:
+			zrobiło
+		1. os. l.m. r. m.:
+			zrobiliśmy
+		1. os. l.m. r. ż.:
+			zrobiłyśmy
+		1. os. l.m. r. n.:
+			zrobiłyśmy
+		2. os. l.m. r. m.:
+			zrobiliście
+		2. os. l.m. r. ż.:
+			zrobiłyście
+		2. os. l.m. r. n.:
+			zrobiłyście
+		3. os. l.m. r. m.:
+			zrobili
+		3. os. l.m. r. ż.:
+			zrobiły
+		3. os. l.m. r. n.:
+			zrobiły
+	forma bezosobowa czasu przeszłego:
+		zrobiono
+	tryb przypuszczający:
+		1. os. l.p. r. m.:
+			zrobiłbym
+		1. os. l.p. r. ż.:
+			zrobiłabym
+		1. os. l.p. r. n.:
+			zrobiłobym
+		2. os. l.p. r. m.:
+			zrobiłbyś
+		2. os. l.p. r. ż.:
+			zrobiłabyś
+		2. os. l.p. r. n.:
+			zrobiłobyś
+		3. os. l.p. r. m.:
+			zrobiłby
+		3. os. l.p. r. ż.:
+			zrobiłaby
+		3. os. l.p. r. n.:
+			zrobiłoby
+		1. os. l.m. r. m.:
+			zrobilibyśmy
+		1. os. l.m. r. ż.:
+			zrobiłybyśmy
+		1. os. l.m. r. n.:
+			zrobiłybyśmy
+		2. os. l.m. r. m.:
+			zrobilibyście
+		2. os. l.m. r. ż.:
+			zrobiłybyście
+		2. os. l.m. r. n.:
+			zrobiłybyście
+		3. os. l.m. r. m.:
+			zrobiliby
+		3. os. l.m. r. ż.:
+			zrobiłyby
+		3. os. l.m. r. n.:
+			zrobiłyby
+	imiesłów przymiotnikowy przeszły:
+		l.p. r. m.:
+			zrobiony
+		l.p. r. ż.:
+			zrobiona
+		l.p. r. n.:
+			zrobione
+		l.m. r. m.:
+			zrobieni
+		l.m. r. ż.:
+			zrobione
+		l.m. r. n.:
+			zrobione
+	imiesłów przysłówkowy uprzedni:
+		zrobiwszy
+	rzeczownik odczasownikowy:
+		zrobienie
+
+
+6: szybki (przymiotnik):
+		l.p. r. mos/mzw mianownik:
+			szybki
+		l.p. r. mos/mzw dopełniacz:
+			szybkiego
+		l.p. r. mos/mzw celownik:
+			szybkiemu
+		l.p. r. mos/mzw biernik:
+			szybkiego
+		l.p. r. mos/mzw narzędnik:
+			szybkim
+		l.p. r. mos/mzw miejscownik:
+			szybkim
+		l.p. r. mos/mzw wołacz:
+			szybki
+		l.p. r. mrz mianownik:
+			szybki
+		l.p. r. mrz dopełniacz:
+			szybkiego
+		l.p. r. mrz celownik:
+			szybkiemu
+		l.p. r. mrz biernik:
+			szybki
+		l.p. r. mrz narzędnik:
+			szybkim
+		l.p. r. mrz miejscownik:
+			szybkim
+		l.p. r. mrz wołacz:
+			szybki
+		l.p. r. ż. mianownik:
+			szybka
+		l.p. r. ż. dopełniacz:
+			szybkiej
+		l.p. r. ż. celownik:
+			szybkiej
+		l.p. r. ż. biernik:
+			szybką
+		l.p. r. ż. narzędnik:
+			szybką
+		l.p. r. ż. miejscownik:
+			szybkiej
+		l.p. r. ż. wołacz:
+			szybka
+		l.p. r. n. mianownik:
+			szybkie
+		l.p. r. n. dopełniacz:
+			szybkiego
+		l.p. r. n. celownik:
+			szybkiemu
+		l.p. r. n. biernik:
+			szybkie
+		l.p. r. n. narzędnik:
+			szybkim
+		l.p. r. n. miejscownik:
+			szybkim
+		l.p. r. n. wołacz:
+			szybkie
+		l.m. mos mianownik:
+			szybcy
+		l.m. mos dopełniacz:
+			szybkich
+		l.m. mos celownik:
+			szybkim
+		l.m. mos biernik:
+			szybkich
+		l.m. mos narzędnik:
+			szybkimi
+		l.m. mos miejscownik:
+			szybkich
+		l.m. mos wołacz:
+			szybcy
+		l.m. nmos mianownik:
+			szybkie
+		l.m. nmos dopełniacz:
+			szybkich
+		l.m. nmos celownik:
+			szybkim
+		l.m. nmos biernik:
+			szybkie
+		l.m. nmos narzędnik:
+			szybkimi
+		l.m. nmos miejscownik:
+			szybkich
+		l.m. nmos wołacz:
+			szybkie
+	stopień wyższy:
+		l.p. r. mos/mzw mianownik:
+			szybszy
+		l.p. r. mos/mzw dopełniacz:
+			szybszego
+		l.p. r. mos/mzw celownik:
+			szybszemu
+		l.p. r. mos/mzw biernik:
+			szybszego
+		l.p. r. mos/mzw narzędnik:
+			szybszym
+		l.p. r. mos/mzw miejscownik:
+			szybszym
+		l.p. r. mos/mzw wołacz:
+			szybszy
+		l.p. r. mrz mianownik:
+			szybszy
+		l.p. r. mrz dopełniacz:
+			szybszego
+		l.p. r. mrz celownik:
+			szybszemu
+		l.p. r. mrz biernik:
+			szybszy
+		l.p. r. mrz narzędnik:
+			szybszym
+		l.p. r. mrz miejscownik:
+			szybszym
+		l.p. r. mrz wołacz:
+			szybszy
+		l.p. r. ż. mianownik:
+			szybsza
+		l.p. r. ż. dopełniacz:
+			szybszej
+		l.p. r. ż. celownik:
+			szybszej
+		l.p. r. ż. biernik:
+			szybszą
+		l.p. r. ż. narzędnik:
+			szybszą
+		l.p. r. ż. miejscownik:
+			szybszej
+		l.p. r. ż. wołacz:
+			szybsza
+		l.p. r. n. mianownik:
+			szybsze
+		l.p. r. n. dopełniacz:
+			szybszego
+		l.p. r. n. celownik:
+			szybszemu
+		l.p. r. n. biernik:
+			szybsze
+		l.p. r. n. narzędnik:
+			szybszym
+		l.p. r. n. miejscownik:
+			szybszym
+		l.p. r. n. wołacz:
+			szybsze
+		l.m. mos mianownik:
+			szybsi
+		l.m. mos dopełniacz:
+			szybszych
+		l.m. mos celownik:
+			szybszym
+		l.m. mos biernik:
+			szybszych
+		l.m. mos narzędnik:
+			szybszymi
+		l.m. mos miejscownik:
+			szybszych
+		l.m. mos wołacz:
+			szybsi
+		l.m. nmos mianownik:
+			szybsze
+		l.m. nmos dopełniacz:
+			szybszych
+		l.m. nmos celownik:
+			szybszym
+		l.m. nmos biernik:
+			szybsze
+		l.m. nmos narzędnik:
+			szybszymi
+		l.m. nmos miejscownik:
+			szybszych
+		l.m. nmos wołacz:
+			szybsze
+	stopień najwyższy:
+		l.p. r. mos/mzw mianownik:
+			najszybszy
+		l.p. r. mos/mzw dopełniacz:
+			najszybszego
+		l.p. r. mos/mzw celownik:
+			najszybszemu
+		l.p. r. mos/mzw biernik:
+			najszybszego
+		l.p. r. mos/mzw narzędnik:
+			najszybszym
+		l.p. r. mos/mzw miejscownik:
+			najszybszym
+		l.p. r. mos/mzw wołacz:
+			najszybszy
+		l.p. r. mrz mianownik:
+			najszybszy
+		l.p. r. mrz dopełniacz:
+			najszybszego
+		l.p. r. mrz celownik:
+			najszybszemu
+		l.p. r. mrz biernik:
+			najszybszy
+		l.p. r. mrz narzędnik:
+			najszybszym
+		l.p. r. mrz miejscownik:
+			najszybszym
+		l.p. r. mrz wołacz:
+			najszybszy
+		l.p. r. ż. mianownik:
+			najszybsza
+		l.p. r. ż. dopełniacz:
+			najszybszej
+		l.p. r. ż. celownik:
+			najszybszej
+		l.p. r. ż. biernik:
+			najszybszą
+		l.p. r. ż. narzędnik:
+			najszybszą
+		l.p. r. ż. miejscownik:
+			najszybszej
+		l.p. r. ż. wołacz:
+			najszybsza
+		l.p. r. n. mianownik:
+			najszybsze
+		l.p. r. n. dopełniacz:
+			najszybszego
+		l.p. r. n. celownik:
+			najszybszemu
+		l.p. r. n. biernik:
+			najszybsze
+		l.p. r. n. narzędnik:
+			najszybszym
+		l.p. r. n. miejscownik:
+			najszybszym
+		l.p. r. n. wołacz:
+			najszybsze
+		l.m. mos mianownik:
+			najszybsi
+		l.m. mos dopełniacz:
+			najszybszych
+		l.m. mos celownik:
+			najszybszym
+		l.m. mos biernik:
+			najszybszych
+		l.m. mos narzędnik:
+			najszybszymi
+		l.m. mos miejscownik:
+			najszybszych
+		l.m. mos wołacz:
+			najszybsi
+		l.m. nmos mianownik:
+			najszybsze
+		l.m. nmos dopełniacz:
+			najszybszych
+		l.m. nmos celownik:
+			najszybszym
+		l.m. nmos biernik:
+			najszybsze
+		l.m. nmos narzędnik:
+			najszybszymi
+		l.m. nmos miejscownik:
+			najszybszych
+		l.m. nmos wołacz:
+			najszybsze
+
+
+7: kułacki (przymiotnik):
+		l.p. r. mos/mzw mianownik:
+			kułacki
+		l.p. r. mos/mzw dopełniacz:
+			kułackiego
+		l.p. r. mos/mzw celownik:
+			kułackiemu
+		l.p. r. mos/mzw biernik:
+			kułackiego
+		l.p. r. mos/mzw narzędnik:
+			kułackim
+		l.p. r. mos/mzw miejscownik:
+			kułackim
+		l.p. r. mos/mzw wołacz:
+			kułacki
+		l.p. r. mrz mianownik:
+			kułacki
+		l.p. r. mrz dopełniacz:
+			kułackiego
+		l.p. r. mrz celownik:
+			kułackiemu
+		l.p. r. mrz biernik:
+			kułacki
+		l.p. r. mrz narzędnik:
+			kułackim
+		l.p. r. mrz miejscownik:
+			kułackim
+		l.p. r. mrz wołacz:
+			kułacki
+		l.p. r. ż. mianownik:
+			kułacka
+		l.p. r. ż. dopełniacz:
+			kułackiej
+		l.p. r. ż. celownik:
+			kułackiej
+		l.p. r. ż. biernik:
+			kułacką
+		l.p. r. ż. narzędnik:
+			kułacką
+		l.p. r. ż. miejscownik:
+			kułackiej
+		l.p. r. ż. wołacz:
+			kułacka
+		l.p. r. n. mianownik:
+			kułackie
+		l.p. r. n. dopełniacz:
+			kułackiego
+		l.p. r. n. celownik:
+			kułackiemu
+		l.p. r. n. biernik:
+			kułackie
+		l.p. r. n. narzędnik:
+			kułackim
+		l.p. r. n. miejscownik:
+			kułackim
+		l.p. r. n. wołacz:
+			kułackie
+		l.m. mos mianownik:
+			kułaccy
+		l.m. mos dopełniacz:
+			kułackich
+		l.m. mos celownik:
+			kułackim
+		l.m. mos biernik:
+			kułackich
+		l.m. mos narzędnik:
+			kułackimi
+		l.m. mos miejscownik:
+			kułackich
+		l.m. mos wołacz:
+			kułaccy
+		l.m. nmos mianownik:
+			kułackie
+		l.m. nmos dopełniacz:
+			kułackich
+		l.m. nmos celownik:
+			kułackim
+		l.m. nmos biernik:
+			kułackie
+		l.m. nmos narzędnik:
+			kułackimi
+		l.m. nmos miejscownik:
+			kułackich
+		l.m. nmos wołacz:
+			kułackie
+
+

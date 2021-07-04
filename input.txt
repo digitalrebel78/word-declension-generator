@@ -1,0 +1,7 @@
+n -m "student"
+n -m "epitet"
+n -m "uniwersytet"
+v -i "robić"
+v -p "zrobić"
+a -c "szybki"
+a -n "kułacki"

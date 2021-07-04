@@ -1,0 +1,346 @@
+{
+	"noun": {
+		"name": "rzeczownik",
+		"masculine": {
+			"name": "rodzaj męski",
+			"-ent": {
+				"liczba pojedyncza": {
+					"mianownik": "-ent",
+					"dopełniacz": "-enta",
+					"celownik": "-entowi",
+					"biernik": "-enta",
+					"narzędnik": "-entem",
+					"miejscownik": "-encie",
+					"wołacz": "-encie"
+				},
+				"liczba mnoga": {
+					"mianownik": "-enci",
+					"dopełniacz": "-entów",
+					"celownik": "-entom",
+					"biernik": "-entów",
+					"narzędnik": "-entami",
+					"miejscownik": "-entach",
+					"wołacz": "-enci"
+				}
+			},
+			"-tet": {
+				"liczba pojedyncza": {
+					"mianownik": "-tet",
+					"dopełniacz": "-tetu",
+					"celownik": "-tetowi",
+					"biernik": "-tet",
+					"narzędnik": "-tetem",
+					"miejscownik": "-tecie",
+					"wołacz": "-tecie"
+				},
+				"liczba mnoga": {
+					"mianownik": "-tety",
+					"dopełniacz": "-tetów",
+					"celownik": "-tetom",
+					"biernik": "-tety",
+					"narzędnik": "-tetami",
+					"miejscownik": "-tetach",
+					"wołacz": "-tety"
+				}
+			}
+		},
+		"feminine": {
+			"name": "rodzaj żeński"
+		},
+		"neuter": {
+			"name": "rodzaj nijaki"
+		}
+	},
+	"verb": {
+		"name": "czasownik",
+		"-ić": {
+			"name": "koniugacja VIa",
+			"imperfective": {
+				"name": "niedokonany",
+				"czas teraźniejszy": {
+					"1. os. l.p.": "-ię",
+					"2. os. l.p.": "-isz",
+					"3. os. l.p.": "-i",
+					"1. os. l.m.": "-imy",
+					"2. os. l.m.": "-icie",
+					"3. os. l.m.": "-ią"
+				},
+				"czas przeszły": {
+					"1. os. l.p. r. m.": "-iłem",
+					"1. os. l.p. r. ż.": "-iłam",
+					"1. os. l.p. r. n.": "-iłom",
+					"2. os. l.p. r. m.": "-iłeś",
+					"2. os. l.p. r. ż.": "-iłaś",
+					"2. os. l.p. r. n.": "-iłoś",
+					"3. os. l.p. r. m.": "-ił",
+					"3. os. l.p. r. ż.": "-iła",
+					"3. os. l.p. r. n.": "-iło",
+					"1. os. l.m. r. m.": "-iliśmy",
+					"1. os. l.m. r. ż.": "-iłyśmy",
+					"1. os. l.m. r. n.": "-iłyśmy",
+					"2. os. l.m. r. m.": "-iliście",
+					"2. os. l.m. r. ż.": "-iłyście",
+					"2. os. l.m. r. n.": "-iłyście",
+					"3. os. l.m. r. m.": "-ili",
+					"3. os. l.m. r. ż.": "-iły",
+					"3. os. l.m. r. n.": "-iły"
+				},
+				"forma bezosobowa czasu przeszłego": "-iono",
+				"tryb przypuszczający": {
+					"1. os. l.p. r. m.": "-iłbym",
+					"1. os. l.p. r. ż.": "-iłabym",
+					"1. os. l.p. r. n.": "-iłobym",
+					"2. os. l.p. r. m.": "-iłbyś",
+					"2. os. l.p. r. ż.": "-iłabyś",
+					"2. os. l.p. r. n.": "-iłobyś",
+					"3. os. l.p. r. m.": "-iłby",
+					"3. os. l.p. r. ż.": "-iłaby",
+					"3. os. l.p. r. n.": "-iłoby",
+					"1. os. l.m. r. m.": "-ilibyśmy",
+					"1. os. l.m. r. ż.": "-iłybyśmy",
+					"1. os. l.m. r. n.": "-iłybyśmy",
+					"2. os. l.m. r. m.": "-ilibyście",
+					"2. os. l.m. r. ż.": "-iłybyście",
+					"2. os. l.m. r. n.": "-iłybyście",
+					"3. os. l.m. r. m.": "-iliby",
+					"3. os. l.m. r. ż.": "-iłyby",
+					"3. os. l.m. r. n.": "-iłyby"
+				},
+				"imiesłów przymiotnikowy czynny": {
+					"l.p. r. m.": "-iący",
+					"l.p. r. ż.": "-iąca",
+					"l.p. r. n.": "-iące",
+					"l.m. r. m.": "-iący",
+					"l.m. r. ż.": "-iące",
+					"l.m. r. n.": "-iące"
+				},
+				"imiesłów przymiotnikowy bierny": {
+					"l.p. r. m.": "-iony",
+					"l.p. r. ż.": "-iona",
+					"l.p. r. n.": "-ione",
+					"l.m. r. m.": "-ieni",
+					"l.m. r. ż.": "-ione",
+					"l.m. r. n.": "-ione"
+				},
+				"imiesłów przysłówkowy współczesny": "-iąc",
+				"rzeczownik odczasownikowy": "-ienie"
+			},
+			"perfective": {
+				"name": "dokonany",
+				"czas przyszły prosty": {
+					"1. os. l.p.": "-ię",
+					"2. os. l.p.": "-isz",
+					"3. os. l.p.": "-i",
+					"1. os. l.m.": "-imy",
+					"2. os. l.m.": "-icie",
+					"3. os. l.m.": "-ią"
+				},
+				"czas przeszły": {
+					"1. os. l.p. r. m.": "-iłem",
+					"1. os. l.p. r. ż.": "-iłam",
+					"1. os. l.p. r. n.": "-iłom",
+					"2. os. l.p. r. m.": "-iłeś",
+					"2. os. l.p. r. ż.": "-iłaś",
+					"2. os. l.p. r. n.": "-iłoś",
+					"3. os. l.p. r. m.": "-ił",
+					"3. os. l.p. r. ż.": "-iła",
+					"3. os. l.p. r. n.": "-iło",
+					"1. os. l.m. r. m.": "-iliśmy",
+					"1. os. l.m. r. ż.": "-iłyśmy",
+					"1. os. l.m. r. n.": "-iłyśmy",
+					"2. os. l.m. r. m.": "-iliście",
+					"2. os. l.m. r. ż.": "-iłyście",
+					"2. os. l.m. r. n.": "-iłyście",
+					"3. os. l.m. r. m.": "-ili",
+					"3. os. l.m. r. ż.": "-iły",
+					"3. os. l.m. r. n.": "-iły"
+				},
+				"forma bezosobowa czasu przeszłego": "-iono",
+				"tryb przypuszczający": {
+					"1. os. l.p. r. m.": "-iłbym",
+					"1. os. l.p. r. ż.": "-iłabym",
+					"1. os. l.p. r. n.": "-iłobym",
+					"2. os. l.p. r. m.": "-iłbyś",
+					"2. os. l.p. r. ż.": "-iłabyś",
+					"2. os. l.p. r. n.": "-iłobyś",
+					"3. os. l.p. r. m.": "-iłby",
+					"3. os. l.p. r. ż.": "-iłaby",
+					"3. os. l.p. r. n.": "-iłoby",
+					"1. os. l.m. r. m.": "-ilibyśmy",
+					"1. os. l.m. r. ż.": "-iłybyśmy",
+					"1. os. l.m. r. n.": "-iłybyśmy",
+					"2. os. l.m. r. m.": "-ilibyście",
+					"2. os. l.m. r. ż.": "-iłybyście",
+					"2. os. l.m. r. n.": "-iłybyście",
+					"3. os. l.m. r. m.": "-iliby",
+					"3. os. l.m. r. ż.": "-iłyby",
+					"3. os. l.m. r. n.": "-iłyby"
+				},
+				"imiesłów przymiotnikowy przeszły": {
+					"l.p. r. m.": "-iony",
+					"l.p. r. ż.": "-iona",
+					"l.p. r. n.": "-ione",
+					"l.m. r. m.": "-ieni",
+					"l.m. r. ż.": "-ione",
+					"l.m. r. n.": "-ione"
+				},
+				"imiesłów przysłówkowy uprzedni": "-iwszy",
+				"rzeczownik odczasownikowy": "-ienie"
+			}
+		}
+	},
+	"adjective": {
+		"name": "przymiotnik",
+		"-ki": {
+			"non comparable": {
+				"l.p. r. mos/mzw mianownik": "-ki",
+				"l.p. r. mos/mzw dopełniacz": "-kiego",
+				"l.p. r. mos/mzw celownik": "-kiemu",
+				"l.p. r. mos/mzw biernik": "-kiego",
+				"l.p. r. mos/mzw narzędnik": "-kim",
+				"l.p. r. mos/mzw miejscownik": "-kim",
+				"l.p. r. mos/mzw wołacz": "-ki",
+				
+				"l.p. r. mrz mianownik": "-ki",
+				"l.p. r. mrz dopełniacz": "-kiego",
+				"l.p. r. mrz celownik": "-kiemu",
+				"l.p. r. mrz biernik": "-ki",
+				"l.p. r. mrz narzędnik": "-kim",
+				"l.p. r. mrz miejscownik": "-kim",
+				"l.p. r. mrz wołacz": "-ki",
+				
+				"l.p. r. ż. mianownik": "-ka",
+				"l.p. r. ż. dopełniacz": "-kiej",
+				"l.p. r. ż. celownik": "-kiej",
+				"l.p. r. ż. biernik": "-ką",
+				"l.p. r. ż. narzędnik": "-ką",
+				"l.p. r. ż. miejscownik": "-kiej",
+				"l.p. r. ż. wołacz": "-ka",
+				
+				"l.p. r. n. mianownik": "-kie",
+				"l.p. r. n. dopełniacz": "-kiego",
+				"l.p. r. n. celownik": "-kiemu",
+				"l.p. r. n. biernik": "-kie",
+				"l.p. r. n. narzędnik": "-kim",
+				"l.p. r. n. miejscownik": "-kim",
+				"l.p. r. n. wołacz": "-kie",
+				
+				"l.m. mos mianownik": "-cy",
+				"l.m. mos dopełniacz": "-kich",
+				"l.m. mos celownik": "-kim",
+				"l.m. mos biernik": "-kich",
+				"l.m. mos narzędnik": "-kimi",
+				"l.m. mos miejscownik": "-kich",
+				"l.m. mos wołacz": "-cy",
+				
+				"l.m. nmos mianownik": "-kie",
+				"l.m. nmos dopełniacz": "-kich",
+				"l.m. nmos celownik": "-kim",
+				"l.m. nmos biernik": "-kie",
+				"l.m. nmos narzędnik": "-kimi",
+				"l.m. nmos miejscownik": "-kich",
+				"l.m. nmos wołacz": "-kie"
+			},
+			"comparable": {
+				"stopień wyższy": {
+					"l.p. r. mos/mzw mianownik": "-szy",
+					"l.p. r. mos/mzw dopełniacz": "-szego",
+					"l.p. r. mos/mzw celownik": "-szemu",
+					"l.p. r. mos/mzw biernik": "-szego",
+					"l.p. r. mos/mzw narzędnik": "-szym",
+					"l.p. r. mos/mzw miejscownik": "-szym",
+					"l.p. r. mos/mzw wołacz": "-szy",
+				
+					"l.p. r. mrz mianownik": "-szy",
+					"l.p. r. mrz dopełniacz": "-szego",
+					"l.p. r. mrz celownik": "-szemu",
+					"l.p. r. mrz biernik": "-szy",
+					"l.p. r. mrz narzędnik": "-szym",
+					"l.p. r. mrz miejscownik": "-szym",
+					"l.p. r. mrz wołacz": "-szy",
+				
+					"l.p. r. ż. mianownik": "-sza",
+					"l.p. r. ż. dopełniacz": "-szej",
+					"l.p. r. ż. celownik": "-szej",
+					"l.p. r. ż. biernik": "-szą",
+					"l.p. r. ż. narzędnik": "-szą",
+					"l.p. r. ż. miejscownik": "-szej",
+					"l.p. r. ż. wołacz": "-sza",
+					
+					"l.p. r. n. mianownik": "-sze",
+					"l.p. r. n. dopełniacz": "-szego",
+					"l.p. r. n. celownik": "-szemu",
+					"l.p. r. n. biernik": "-sze",
+					"l.p. r. n. narzędnik": "-szym",
+					"l.p. r. n. miejscownik": "-szym",
+					"l.p. r. n. wołacz": "-sze",
+					
+					"l.m. mos mianownik": "-si",
+					"l.m. mos dopełniacz": "-szych",
+					"l.m. mos celownik": "-szym",
+					"l.m. mos biernik": "-szych",
+					"l.m. mos narzędnik": "-szymi",
+					"l.m. mos miejscownik": "-szych",
+					"l.m. mos wołacz": "-si",
+					
+					"l.m. nmos mianownik": "-sze",
+					"l.m. nmos dopełniacz": "-szych",
+					"l.m. nmos celownik": "-szym",
+					"l.m. nmos biernik": "-sze",
+					"l.m. nmos narzędnik": "-szymi",
+					"l.m. nmos miejscownik": "-szych",
+					"l.m. nmos wołacz": "-sze"
+				},
+				"stopień najwyższy": {
+					"l.p. r. mos/mzw mianownik": "naj-szy",
+					"l.p. r. mos/mzw dopełniacz": "naj-szego",
+					"l.p. r. mos/mzw celownik": "naj-szemu",
+					"l.p. r. mos/mzw biernik": "naj-szego",
+					"l.p. r. mos/mzw narzędnik": "naj-szym",
+					"l.p. r. mos/mzw miejscownik": "naj-szym",
+					"l.p. r. mos/mzw wołacz": "naj-szy",
+				
+					"l.p. r. mrz mianownik": "naj-szy",
+					"l.p. r. mrz dopełniacz": "naj-szego",
+					"l.p. r. mrz celownik": "naj-szemu",
+					"l.p. r. mrz biernik": "naj-szy",
+					"l.p. r. mrz narzędnik": "naj-szym",
+					"l.p. r. mrz miejscownik": "naj-szym",
+					"l.p. r. mrz wołacz": "naj-szy",
+				
+					"l.p. r. ż. mianownik": "naj-sza",
+					"l.p. r. ż. dopełniacz": "naj-szej",
+					"l.p. r. ż. celownik": "naj-szej",
+					"l.p. r. ż. biernik": "naj-szą",
+					"l.p. r. ż. narzędnik": "naj-szą",
+					"l.p. r. ż. miejscownik": "naj-szej",
+					"l.p. r. ż. wołacz": "naj-sza",
+					
+					"l.p. r. n. mianownik": "naj-sze",
+					"l.p. r. n. dopełniacz": "naj-szego",
+					"l.p. r. n. celownik": "naj-szemu",
+					"l.p. r. n. biernik": "naj-sze",
+					"l.p. r. n. narzędnik": "naj-szym",
+					"l.p. r. n. miejscownik": "naj-szym",
+					"l.p. r. n. wołacz": "naj-sze",
+					
+					"l.m. mos mianownik": "naj-si",
+					"l.m. mos dopełniacz": "naj-szych",
+					"l.m. mos celownik": "naj-szym",
+					"l.m. mos biernik": "naj-szych",
+					"l.m. mos narzędnik": "naj-szymi",
+					"l.m. mos miejscownik": "naj-szych",
+					"l.m. mos wołacz": "naj-si",
+					
+					"l.m. nmos mianownik": "naj-sze",
+					"l.m. nmos dopełniacz": "naj-szych",
+					"l.m. nmos celownik": "naj-szym",
+					"l.m. nmos biernik": "naj-sze",
+					"l.m. nmos narzędnik": "naj-szymi",
+					"l.m. nmos miejscownik": "naj-szych",
+					"l.m. nmos wołacz": "naj-sze"
+				}
+			}
+		}
+	}
+}
